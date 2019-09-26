@@ -66,8 +66,8 @@ scipy==1.0.0
 Shapely==1.6.4.post1
 simplegeneric==0.8.1
 simplejson==3.13.2
-six==1.11.0
-SQLAlchemy==1.2.1
+six>=1.11.0
+SQLAlchemy>=1.2.1
 tablib==0.12.1
 textblob==0.15.1
 traitlets==4.3.2
@@ -75,7 +75,7 @@ twython==3.6.0
 unicodecsv==0.14.1
 urllib3>=1.22
 wcwidth==0.1.7
-Werkzeug==0.14.1
+Werkzeug>=0.14.1
 wordcloud==1.4.1
 WTForms==2.1
 xlrd==1.1.0
